@@ -3,7 +3,9 @@ some basic tasks for python learner
 # 介绍
 本教程是希望通过任务的方式来作为Python学习者的tutorial或者说example，让大家在枯草的学习外，通过实践的方式对python有更深刻的了解。
 # 布局框架
-主目录下放置最简单的一些任务，任务名字为task**n**_taskname即第几个任务，后缀是md，即markdown说明文件，而有一个同名的文件夹，里面存放参考代码，参考代码的prefix即写代码的人自取的名字，filename为要求的文件名。
+主目录下放置最简单的一些任务，任务名字为task**n**\_taskname即第几个任务，为一个文件夹，里面README.md是markdown说明文件，
+即任务详细内容，文件夹里面存放参考代码，参考代码的prefix即写代码的人自取的名字，filename为要求的文件名。
+以module\_为前缀的文件夹是模块，里面有子任务，为单独训练某一特殊模块而拓展，比如将来可以学习numpy等扩展包。  
 ```
 root
 |-- README.md #介绍
