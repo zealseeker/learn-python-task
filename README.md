@@ -7,13 +7,14 @@ some basic tasks for python learner
 ```
 root
 |-- README.md #介绍
-|-- task1_taskname.md #任务1
-|-- task1_taskname #参考代码
-|-- |-- prefix_filename.py #程序代码
-|-- module1_modulename #模块1
+|-- task1_taskname 任务1
+|-- |-- README.md #任务1内容
+|-- |-- prefix_filename.py #参考代码
+|-- module_modulename #模块
 |-- |-- README.md #模块介绍
-|-- |-- task1_taskname.md #任务1
-|-- |-- task1_taskname #参考代码
+|-- |-- task1_taskname # 模块中任务1
+|-- |-- |-- README.me #模块中任务1内容
+|-- |-- |-- prefix_filename.py #参考代码
 ```
 
 # 参考教程
