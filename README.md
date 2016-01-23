@@ -1,7 +1,8 @@
 # learn-python-task
 some basic tasks for python learner
 # 介绍
-本教程是希望通过任务的方式来作为Python学习者的tutorial或者说example，让大家在枯草的学习外，通过实践的方式对python有更深刻的了解。
+本教程是希望通过任务的方式来作为Python学习者的tutorial或者说example，让大家在枯草的学习外，通过实践的方式对python有更深刻的了解。教程中举例主要会围绕化学信息学，所以对相关领域的学者可能会有更大的帮助，而对于非该专业的小伙伴来说，这只是让代码更富有意义而已，只需要初高中的化学知识就能理解其含义，没有高深的学历要求。也欢迎其他有兴趣的专家设计其他领域的“题目”。  
+
 # 布局框架
 主目录下放置最简单的一些任务，任务名字为task**n**\_taskname即第几个任务，为一个文件夹，里面README.md是markdown说明文件，
 即任务详细内容，文件夹里面存放参考代码，参考代码的prefix即写代码的人自取的名字，filename为要求的文件名。
@@ -9,7 +10,7 @@ some basic tasks for python learner
 ```
 root
 |-- README.md #介绍
-|-- task1_taskname 任务1
+|-- task1_taskname #任务1
 |-- |-- README.md #任务1内容
 |-- |-- prefix_filename.py #参考代码
 |-- module_modulename #模块
