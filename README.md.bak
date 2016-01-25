@@ -19,29 +19,6 @@ root
 |-- |-- |-- README.me #模块中任务1内容
 |-- |-- |-- prefix_filename.py #参考代码
 ```
-# 语法说明
-```
->>> 这里表示python文件中的代码
-<<< 这表示用户输入内容
-这表示标准输出
-```
-以下是例子：  
-```
->>> name = raw_input('please input your name \n')  #定义name为用户输入内容
-please input your name  #输出：输入名字
-<<< zealseeker          #输入
->>> print name          #打印用户名字
-zealseeker              #输出
-```
-以上执行顺序与交互式python程序相同，而我们通常会把所有代码写进一个文件并按F5执行，那么就这样表达：
-```
->>> name = raw_input('please input your name \n')
->>> print name
->>> 【your code here】 #其实这里意味着该脚本文件的终点，以下则是输入、输出的内容
-please input your name
-<<< zealseeker
-zealseeker
-```
 
 # 参考教程
 ## Git教程
