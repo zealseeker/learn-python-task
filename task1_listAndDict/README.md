@@ -1,6 +1,7 @@
 # Task 1: Learn List and Dict
 
-## List/Tuple
+## List/Tuple  
+★☆☆☆☆
 1. 添加一个叫molecules.py的文件 （注意文件名前面要加入前缀，参考README.md）
 2. 文件中完成两个变量的赋值，分别是atoms, bonds  
  **atoms**用以描述原子，假设一个化合物里有五个原子，分别是碳，氢，氢，氢，氢，他们的原子序数分别是6,1,1,1,1。
@@ -19,7 +20,8 @@
 那么比如说第一个碳氢键，就应该是(0,1,1)。其中括号表示是元组（tuple），第一个元素0表示碳，第二个元素1表示氢，
 第三个元素1表示是单键。
 
-## Dict
+## Dict  
+★☆☆☆☆
 1. 添加一个叫element.py的文件
 2. 在文件中完成两个变量的赋值，atomType以及bondType  
 **atomType**用以描述原子类型，key是原子序数，value是原子类型，即：  
